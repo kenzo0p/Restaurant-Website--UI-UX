@@ -13,4 +13,4 @@
 ---
 
 ## Live Demo  
-Check out the live project: **[Restaurant Landing Page]()**  
+Check out the live project: **[Restaurant Landing Page](https://restaurant-website-ui-ux.vercel.app/)**  
